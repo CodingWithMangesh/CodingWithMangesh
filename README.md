@@ -1,6 +1,6 @@
 ![CodeWithMangesh](https://komarev.com/ghpvc/?username=CodingWithMangesh&color=1fbfff&style=plastic)
 
-![CodeWithMangeshj](https://github.com/Mangesh636/Mangesh636/assets/104110612/c348b27c-7853-4c6a-8d33-408d688f57b0)
+![CodeWithMangeshj](https://yt3.googleusercontent.com/HOqWAEaL1-oxKPmVlZMu8bzcFI0w7IxdOe4NcdtcQtaS93TFWFHkGhMttQqrA6gb9nNBmu8Q8Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h1 align="center">Hi 👋, I'm Mangesh Bhardwaj</h1>
 <h2 align="center">A passionate Full-Stack Developer, App Developer, & Programming Instructor from India.</h2>
