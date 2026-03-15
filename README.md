@@ -1,1 +1,1 @@
-[![CodeWithMangeshj](./banner.png)](https://codewithmangesh.in)
+[![CodeWithMangeshj](./banner.svg)](https://codewithmangesh.in)
